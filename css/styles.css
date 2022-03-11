@@ -232,7 +232,7 @@ a.nav_link:active {
 }
 
 #hero_text::before {
-	background-image: url("/images/logo.svg");background-repeat: no-repeat;
+	background-image: url("images/logo.svg");background-repeat: no-repeat;
 	background-position: left;
 	background-size: 200%;
 	min-width: 500px;
